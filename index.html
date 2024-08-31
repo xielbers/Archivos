@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Archivos</title>
 <link rel="stylesheet" href="index.css">
+<script src="index.js"></script>
 </head>
 <body>
   <h1>Mis Archivos</h1>
 
-  <!-- Menú desplegable -->
   <div class="dropdown">
     <div id="dropdownContent" class="dropdown-content">
       <a href="#apps">Apps</a>
@@ -23,13 +23,16 @@
   </div>
 <hr>
   <ul id="apps">
-    <li><a href="Archivos/Apps/YouTube-TV.apk">YouTube TV</a></li>
-    <li><a href="Archivos/Apps/MagisTV.apk">Magis TV</a></li>
-    <li><a href="Archivos/Apps/GooglePlayStore.apk">Google Play Store</a></li>
+    <li><a href="Archivos/Apps/YouTube-TV.apk" download>YouTube TV</a></li>
+    <li><a href="Archivos/Apps/MagisTV.apk" download>Magis TV</a></li>
+    <li><a href="Archivos/Apps/GooglePlayStore.apk" download>Google Play Store</a></li>
   </ul>
 <hr>
   <ul id="scripts">
-    <li><a href="Archivos/Scripts/blox-fruits.lua" download>Blox Fruits</a></li>
+    <li><a href="https://www.mediafire.com/file/mvwmo3z1rhs8dkk/Delta-2.639.688.apk/file" class="red">Delta Executor</a></li>
+    <br>
+    <li><a href="Archivos/Scripts/blox-fruits.lua" download>Blox Fruits</a> <button onclick="copy('blox-fruits')">Copiar</button></li>
+    <li><a href="Archivos/Scripts/evade.lua" download>Evade</a> <button onclick="copy('evade')">Copiar</button></li>
   </ul>
 </body>
 </html>
