@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KinetPhoenix/evade-script/main/evade.lua"))()

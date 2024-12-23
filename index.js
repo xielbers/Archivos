@@ -1,6 +1,6 @@
 const archivos = {
-    'blox-fruits': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()',
-    'evade': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/KinetPhoenix/evade-script/main/evade.lua"))()'
+    'blox-fruits': 'loadstring(game:HttpGet("https://xielbers.github.io/Archivos/Scripts/blox-fruits.lua"))()',
+    'evade': 'loadstring(game:HttpGet("https://xielbers.github.io/Archivos/Scripts/evade.lua"))()'
 };
 
 function copy(archivo) {
