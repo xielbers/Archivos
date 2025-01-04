@@ -5,6 +5,7 @@ const archivos = {
     'universal': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/universal.lua"))()',
     'universal-key': 'UCrvd63k',
     'jailbreak': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/jailbreak.lua"))()',
+    'infinite-yield': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/Infinite-Yield.lua"))()',
 };
 
 function copy(archivo) {
