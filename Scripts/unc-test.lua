@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/unc-test.lua"))()
