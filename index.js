@@ -17,7 +17,8 @@ const archivos = {
     'speed-hub': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/speed-hub.lua"))()',
     'infinite-yield': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/Infinite-Yield.lua"))()',
     'unc-test': 'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/unc-test.lua"))()',
-'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/99-nights-in-the-forest.lua"))()'
+    '99-nights-in-forest':
+'loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/99-nights-in-the-forest.lua"))()',
 };
 
 function copy(archivo) {
